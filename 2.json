@@ -1,0 +1,13 @@
+{
+  "nickname": "moja_najukochansza_dziewczyna",
+  "times": [253, 233, 244, 222, 210, 262, 217, 192, 205, 215],
+  "avg": 225.3,
+  "median": 219.5,
+  "stddev": 21.128416883429768,
+  "best": 192,
+  "worst": 262,
+  "consistency": 70,
+  "q1": 210.0,
+  "q3": 244.0,
+  "falseStarts": 2
+}
